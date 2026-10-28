@@ -9,3 +9,4 @@ api.txt
 *.part
 Source_code/caltech_merged_15min.csv
 ~$*
+Slide/*.pptx

@@ -11,7 +11,7 @@
 ## Nội dung nộp
 
 - [Báo cáo PDF](Bao_cao/bao_cao_nhom_11_lap_lich_xe_dien.pdf): 54 trang, gồm bìa và các phần đầu báo cáo.
-- [Slide thuyết trình](Slide/Bao_Cao_EV_RL_Nhom.pptx): 24 slide.
+- [Slide thuyết trình PDF](Slide/Bao_Cao_EV_RL_Nhom.pdf): 24 trang, tỉ lệ 16:9.
 - [Notebook chính đã chạy](Source_code/EV_RL_NHOM_BAN_CHON.ipynb).
 - [Hướng dẫn tra cứu công thức và số liệu](Source_code/HUONG_DAN_TRA_CUU.md).
 - `Source_code/ket_qua_de_hieu/`: bảng CSV, hình và kết luận của thí nghiệm chính.
