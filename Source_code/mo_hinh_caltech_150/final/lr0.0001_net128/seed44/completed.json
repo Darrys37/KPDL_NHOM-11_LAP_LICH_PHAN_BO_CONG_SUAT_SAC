@@ -1,0 +1,13 @@
+{
+  "name": "lr0.0001_net128",
+  "lr": 0.0001,
+  "width": 128,
+  "seed": 44,
+  "phase": "final",
+  "steps": 300032,
+  "seconds": 551.4211568832397,
+  "val_objective": 1.116723224908164,
+  "val_wait": 1.9153835040854867,
+  "val_unmet_pct": 24.087125323564113,
+  "folder": "mo_hinh_caltech_150\\final\\lr0.0001_net128\\seed44"
+}

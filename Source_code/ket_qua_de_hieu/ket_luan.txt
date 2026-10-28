@@ -1,0 +1,1 @@
+Trong cấu hình Caltech 150 kW có pod/pha, PPO 5 seed đạt J=1.2137, thiếu 26.28% trung bình ngày, chờ 1.97 phút, chậm tương đương 17.13 phút. Mốc không học có J thấp nhất là EDF: 1.2050. Bootstrap thăm dò cho tín hiệu PPO tốt hơn theo J: FIFO, Fixed100, AverageRate; kém hơn: chưa có. Cận thiếu riêng từng xe là 25.66% tổng nhu cầu test. Yêu cầu bằng 1.85 lần điện lịch sử được cấp.

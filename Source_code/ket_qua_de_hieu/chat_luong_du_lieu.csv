@@ -1,0 +1,6 @@
+Kiểm tra,Số phiên,Tổng phiên,Tỷ lệ (%)
+Thiếu thời điểm cắm hoặc rút,0,31424,0.0
+Thời lượng đậu không dương,0,31424,0.0
+Không có danh sách userInputs,15036,31424,47.84877800407332
+Không có khai báo hợp lệ tại first_control,15976,31424,50.84012219959267
+Không có timestamp chuỗi,11335,31424,36.071155804480654

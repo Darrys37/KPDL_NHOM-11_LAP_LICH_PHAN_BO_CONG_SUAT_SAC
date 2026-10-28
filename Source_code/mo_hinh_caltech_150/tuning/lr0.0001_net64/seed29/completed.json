@@ -1,0 +1,13 @@
+{
+  "name": "lr0.0001_net64",
+  "lr": 0.0001,
+  "width": 64,
+  "seed": 29,
+  "phase": "tuning",
+  "steps": 300032,
+  "seconds": 393.32341027259827,
+  "val_objective": 1.122970978087669,
+  "val_wait": 1.827312927186432,
+  "val_unmet_pct": 24.074575835988725,
+  "folder": "mo_hinh_caltech_150\\tuning\\lr0.0001_net64\\seed29"
+}

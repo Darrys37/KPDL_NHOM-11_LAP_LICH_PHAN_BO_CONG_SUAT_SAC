@@ -1,0 +1,7 @@
+Bước,Trước,Còn lại,Loại
+1. Chọn năm 2019,31424,10616,20808
+2. Khai báo đã biết và hợp lệ,10616,8485,2131
+3. Phiên cùng ngày,8485,7933,552
+4. Có ít nhất một slot nguyên vẹn,7933,7851,82
+5. Không chồng lấn cùng trụ,7851,7851,0
+6. Ngày có ít nhất 10 phiên,7851,7339,512

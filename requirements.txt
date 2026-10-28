@@ -1,0 +1,10 @@
+# Các phiên bản thư viện chính của môi trường đã chạy notebook.
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
+torch==2.14.1
+gymnasium==1.4.0
+stable-baselines3==2.9.0
+ipython==9.17.1
+nbformat==5.11.1
+notebook>=7,<8
